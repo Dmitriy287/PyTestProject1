@@ -1,5 +1,0 @@
-"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Thu Apr 04 13:52:16 NOVT 2024","Thu Apr 04 13:52:25 NOVT 2024","9043","","test_check_pytest","","","","test_logout_successful[firefoxde]","Проверка выхода"
-"passed","Thu Apr 04 13:53:13 NOVT 2024","Thu Apr 04 13:53:25 NOVT 2024","11381","","test_check_pytest","","","","test_sort_products_successful[firefoxde]","Проверка сортировки"
-"passed","Thu Apr 04 13:51:06 NOVT 2024","Thu Apr 04 13:51:16 NOVT 2024","9583","","test_check_pytest","","","","test_login_successful[firefoxde]","Проверка входа"
-"passed","Thu Apr 04 13:54:09 NOVT 2024","Thu Apr 04 13:54:22 NOVT 2024","12104","","test_check_pytest","","","","test_get_product_successful[firefoxde]","Проверка покупки"

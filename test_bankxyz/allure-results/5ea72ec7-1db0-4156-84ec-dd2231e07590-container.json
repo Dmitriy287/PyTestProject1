@@ -1,0 +1,1 @@
+{"uuid": "b9bf1697-a71e-4c31-8842-18ef53da1796", "children": ["e87eded8-da89-4bfb-a508-c370fc17e0dd"], "befores": [{"name": "login_bank_manager", "status": "passed", "start": 1712672709280, "stop": 1712672709282}], "afters": [{"name": "login_bank_manager::0", "status": "passed", "start": 1712672713244, "stop": 1712672713244}], "start": 1712672709280, "stop": 1712672713244}
