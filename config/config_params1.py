@@ -44,7 +44,7 @@ def get_driver_path(browser_name):
         raise ValueError(f"Unsupported browser: {browser_name}")
 
 # Фикстура для создания браузера
-@pytest.fixture(params=['edge'])
+@pytest.fixture(params=['firefoxde'])
 def browser(request):
     browser_name = request.param
     driver_path = get_driver_path(browser_name)
